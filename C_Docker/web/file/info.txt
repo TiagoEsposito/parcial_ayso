@@ -1,0 +1,2 @@
+CPU: model name	: Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz
+Comando usado: grep 'model name' /proc/cpuinfo

@@ -1,0 +1,5 @@
+---
+- name: 2p_esposito
+  debug:
+    msg: "Me estoy ejecutando dentro del role: {{ role_name }}"
+
